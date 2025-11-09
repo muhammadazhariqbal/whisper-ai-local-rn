@@ -1,7 +1,7 @@
 {
   "name": "whisper-ai-local-rn",
   "version": "1.0.0",
-  "description": "React Native Whisper local inference hook",
+  "description": "A React Native hook to manage local Whisper AI models for offline speech-to-text transcription.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "license": "MIT",
