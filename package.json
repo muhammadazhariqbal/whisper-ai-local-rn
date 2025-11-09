@@ -16,13 +16,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/whisper-ai-local-rn.git"
+    "url": "https://github.com/muhammadazhariqbal/whisper-ai-local-rn"
   },
-  "author": "Your Name <your.email@example.com>",
+  "author": "Muhammad Azhar Iqbal",
   "bugs": {
-    "url": "https://github.com/yourusername/whisper-ai-local-rn/issues"
+    "url": "https://github.com/muhammadazhariqbal/whisper-ai-local-rn/issues"
   },
-  "homepage": "https://github.com/yourusername/whisper-ai-local-rn#readme",
+  "homepage": "https://github.com/muhammadazhariqbal/whisper-ai-local-rn#readme",
   "files": [
     "dist",
     "README.md",
